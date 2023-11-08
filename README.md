@@ -2,6 +2,15 @@
 
 Welcome to my GitHub profile! I'm passionate about creating and contributing to technology that makes a difference. I love to blend creativity with code, bringing ideas to life through diligent coding and user-centered design.
 
+## Skills and Expertise 🛠️
+
+Here's a brief overview of the technologies and tools that I use:
+
+- **Frontend:** JavaScript, HTML, CSS, React.js
+- **Backend:** Python, Node.js, Flask, SQL
+- **DevOps:** AWS
+- **Tools:** Git, GitHub, Postman, Visual Studio Code
+
 ## TECHNICAL PROJECTS
 
 Below you'll find a selection of my projects. Each one was an opportunity to learn, grow, and refine my skills as a full-stack developer.
@@ -22,7 +31,17 @@ The **Quote Generator** is a sleek web app that serves up inspirational quotes a
 
 Feel free to dive into my projects, ask questions, or just say hi. I'm always open to discussing new opportunities, collaborations, or just geeking out about the latest in tech.
 
-- [LinkedIn](www.linkedin.com/in/dorin-porcereanu)
-- [Email](mailto:porcereanu.dorin@gmail.com)
+## Connect with me
+
+[<img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+
+<br />
+<br />
+
+[medium]: https://medium.com/@porcereanu.dorin
+[linkedin]: www.linkedin.com/in/dorin-porcereanu
+[gmail]: mailto:porcereanu.dorin@gmail.com
 
 Thanks for stopping by!
